@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Sufyan Ahmed
+- 🏫 Software Engineering student at Sir Syed University of Engineering and Technology
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Wordpress
 - 💞️ I’m looking to collaborate on Wordpress development
