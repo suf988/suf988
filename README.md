@@ -32,7 +32,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suf988&theme=dark" alt="suf988" /></p>
 
-<img align="center" src="https://camo.githubusercontent.com/99ddae50c7a62e91268ca88e343614e8d810d176392d9050f4b697cbf0d3b7f2/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d6d61687261726875737361696e267468656d653d32303737" height="180em" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suf988&amp;theme=2077" style="max-width: 100%;">
+<img align="center" src="https://camo.githubusercontent.com/99ddae50c7a62e91268ca88e343614e8d810d176392d9050f4b697cbf0d3b7f2/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d6d61687261726875737361696e267468656d653d32303737" height="180em" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suf988&theme=2077" style="max-width: 100%;">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
