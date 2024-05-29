@@ -28,7 +28,7 @@
 
 
 
-<p><img align="center" src="https://camo.githubusercontent.com/394793c44f163e275f8920f9e019bcdab4ca55ebb4556bd27ccf148c6856b345/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f73746174733f757365726e616d653d6d61687261726875737361696e267468656d653d6461726b" height="180em" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suf988&amp;theme=dark" style="max-width: 100%;"></p>
+<p><img align="center" height="180em" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suf988&amp;theme=dark" style="max-width: 100%;"></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suf988&theme=dark" alt="suf988" /></p>
 
