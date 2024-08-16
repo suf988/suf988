@@ -12,7 +12,7 @@
 
 - 👨🏻‍💻 I’m currently working in **Secure Networks**
 
-- 🌱 I’m currently developing **MERN Stack application**
+- 🌱 Currently developing **MERN Stack application**
 
 - 👨‍💻 All of my projects are available at [https://sufyan-portfolio-app.netlify.app/](https://sufyan-portfolio-app.netlify.app/)
 
