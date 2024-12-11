@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suf988&label=Profile%20views&color=0e75b6&style=flat" alt="suf988" /> </p>
 
-- 👨🏻‍💻 I’m currently working in **Secure Networks**
+- 👨🏻‍💻 I’m currently pursuing my **Master's Degree**
 
 - 🌱 Currently developing **MERN Stack application**
 
