@@ -20,12 +20,30 @@
 
 - 📫 Reach me out at **sufyanahmed49@gmail.com**
 
-<div dir="auto"> <a href="https://www.linkedin.com/in/sufyan-ahmed49/" rel="nofollow"><img src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://github.com/suf988"><img 
-src="https://camo.githubusercontent.com/e8608a6316b9d88ea49559b15837c90b1c14fb172ca6743b50150cd54f208e26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" 
-style="max-width: 100%;"></a>
-<a href="mailto:sufyanahmed49@gmail.com"><img src="https://camo.githubusercontent.com/3f3a28cce40a1f01e5420a4d35b62542b0d78e38f03fbb75746873b8b68a58df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+<div dir="auto">
+  <a href="https://www.linkedin.com/in/sufyan-ahmed49/" rel="nofollow">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn Badge" 
+      style="max-width: 100%;"
+    >
+  </a>
+  <a href="https://github.com/suf988">
+    <img 
+      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
+      alt="GitHub Badge" 
+      style="max-width: 100%;"
+    >
+  </a>
+  <a href="mailto:sufyanahmed49@gmail.com">
+    <img 
+      src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
+      alt="Gmail Badge" 
+      style="max-width: 100%;"
+    >
+  </a>
 </div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
