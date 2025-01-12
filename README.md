@@ -55,24 +55,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <h3 align="left">📊 My Stats:</h3>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suf988&show_icons=true&theme=dark&locale=en&layout=compact" alt="suf988" /></p> -->
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suf988&layout=donut-vertical&theme=dark" alt="suf988" />
-
-
-  <img 
-    align="center" 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suf988&theme=dark" 
-    height="180em" 
-    data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suf988&amp;theme=dark" 
-    style="max-width: 100%;" 
-  />
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suf988&theme=dark" alt="suf988" /></p>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suf988&layout=donut-vertical&theme=dark" alt="suf988" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suf988&theme=dark" alt="suf988" />
+</a>
 
 <p>
   <img 
