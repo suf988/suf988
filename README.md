@@ -57,7 +57,7 @@
 <h3 align="left">📊 My Stats:</h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suf988&layout=compact&langs_count=8&cardwidth=280&theme=dark" alt="suf988" />
+    <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suf988&layout=compact&langs_count=8&cardwidth=200&theme=dark" alt="suf988" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suf988&theme=dark" alt="suf988" />
