@@ -60,7 +60,9 @@
     <img  height=200 width=340 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suf988&layout=compact&langs_count=8&cardwidth=200&theme=dark" alt="suf988" />
 </a>
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width=400 height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suf988&theme=dark" alt="suf988" />
+</a>
 
 <br>
 <p>
