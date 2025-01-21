@@ -61,7 +61,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width=400 height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suf988&theme=dark" alt="suf988" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suf988&theme=dark" alt="suf988" />
 </a>
 
 <br>
