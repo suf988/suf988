@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sufyan Ahmed</h1>
-<h3 align="center">A passionate MERN developer</h3>
+<h3 align="center">Data Enthusiast</h3>
 <img 
     align="right" 
     alt="Coding" 
@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sufyan-portfolio-app.netlify.app/](https://sufyan-portfolio-app.netlify.app/)
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Data Analysis**
 
 - 📫 Reach me out at **sufyanahmed49@gmail.com**
 
