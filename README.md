@@ -10,9 +10,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suf988&label=Profile%20views&color=0e75b6&style=flat" alt="suf988" /> </p>
 
-- 👨🏻‍💻 I’m currently pursuing my **Master's Degree**
+- 👨🏻‍💻 I’m currently pursuing my **Post Graduate Studies**
 
-- 🌱 Currently developing **MERN Stack application**
+- 🌱 Currently learning **Data Analysis**
 
 - 👨‍💻 All of my projects are available at [https://sufyan-portfolio-app.netlify.app/](https://sufyan-portfolio-app.netlify.app/)
 
